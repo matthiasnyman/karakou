@@ -1,14 +1,20 @@
 import React from 'react';
-import VHeader from './components/VHeader';
-import Info from './components/Info';
+import BackgroundVideo from './components/BackgroundVideo';
+import Backdrop from './components/Backdrop';
 
-function App() {
-  return (
-    <div className="App">
-      <VHeader />
-      <Info />
-    </div>
-  );
+class App extends React.Component {
+
+  
+  
+  render() {
+    const album = []
+    return (
+      <div className="App">
+        <BackgroundVideo />
+        <Backdrop album={this.album} />
+      </div>
+    );
+  }
 }
 
 export default App;
