@@ -1,6 +1,6 @@
 import React from 'react';
 import TourComponant from './TourComponent';
-import classes from './tour.modules.scss';
+import classes from './tour.module.scss';
 
 const tour = (props) => {
   console.log(props.tour);
@@ -8,8 +8,8 @@ const tour = (props) => {
 
   return (
     <div>
-      <h2 className={classes.tourHeader}>Dansa med oss</h2>
-      <div className={classes.container}>{tourList}</div>
+      <h2 className='header'>Dansa med oss</h2>
+      <div>{tourList}</div>
     </div>
   );
 };

@@ -7,7 +7,7 @@ const Albums = (props) => {
 
   return (
   <div>
-    <h2 className={classes.albumHeader}>Något att lyssna på</h2>
+    <h2 className='header noMargin'>Något att lyssna på</h2>
     <div className={classes.container}>
       { albumList }
     </div>

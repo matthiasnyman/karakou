@@ -7,34 +7,28 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.header {
-  display: flex;
-
-  width: 100%;
-  height: 100vh;
-  background-color: #080815;
-  color: #f6f6f6;
-   
-  h2{
-    margin: 0;
-    justify-content: center;
-  }
-
-  ul {
-    list-style-type: none;
-    justify-content: flex-end;
-    
-    li{
-      max-width: 100px;
-      margin: 2rem;
-      text-transform: capitalize;
-    }
-  }
-}
-
 .backdrop {
   background: linear-gradient(180deg, #080815 77.6%, #161651 100%);
   padding: 2rem;
+}
+
+.header{
+  color: #f6f6f6;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 2em;
+
+}
+
+.paragrafs{
+  color: #f6f6f6;
+  margin: auto;
+  width: 70%;
+  max-width: 700px;
+}
+
+.noMargin {
+  margin: 0;
 }
 
 

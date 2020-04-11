@@ -1,0 +1,51 @@
+
+.tourHeader {
+  color: #f6f6f6;
+  text-align: center;
+}
+
+
+.layout {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.location {
+  color: #f6f6f6;
+}
+
+.date {
+  color: #f6f6f6;
+}
+
+.button {
+
+  width: 150px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+  font-size: large;
+  align-self: center;
+
+  color: #f6f6f6;
+  background: linear-gradient(180deg, #7213D1 0%, #3E1ACD 100%);
+}
+
+.button:hover {
+  background: linear-gradient(180deg, rgb(128, 21, 235) 0%, rgb(70, 30, 233) 100%);
+	background-color:#bc3315;
+}
+
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+.hr {
+  border: 0;
+  height: 1px;
+  width: 70%;
+  background-image: linear-gradient(to right, rgba(223, 215, 215, 0.315), #f6f6f6, rgba(223, 215, 215, 0.315));
+}
+
