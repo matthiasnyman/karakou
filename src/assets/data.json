@@ -1,0 +1,29 @@
+
+{   
+  "Album": [
+
+    {
+      "name": "Oftast",
+      "image": "./oftast",
+      "link": "https://open.spotify.com/track/4yrcl1zbYcerUGPHPVMlNl?si=Y-hV0jv2Ri-TjA2AvPOCmA"
+    },
+    {
+      "name": "Oftast",
+      "image": "./oftast",
+      "link": "https://open.spotify.com/track/4yrcl1zbYcerUGPHPVMlNl?si=Y-hV0jv2Ri-TjA2AvPOCmA"
+    },
+    {
+      "name": "Oftast",
+      "image": "./oftast",
+      "link": "https://open.spotify.com/track/4yrcl1zbYcerUGPHPVMlNl?si=Y-hV0jv2Ri-TjA2AvPOCmA"
+    }
+  ],
+  "Tour": [
+    {
+      "stad": "Stockholm",
+      "Venue": "Debaser",
+      "date": "new Date.now()",
+      "link": "https://open.spotify.com/track/4yrcl1zbYcerUGPHPVMlNl?si=Y-hV0jv2Ri-TjA2AvPOCmA"
+    }
+  ]
+}

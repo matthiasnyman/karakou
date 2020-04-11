@@ -1,0 +1,26 @@
+
+.tourHeader {
+  color: #f6f6f6;
+  text-align: center;
+}
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+
+.album {
+  width: 200px;
+  height: 200px;
+  margin: 1rem;
+  
+}
+
+.image{
+  width: 100%;
+  height: 100%;
+}
