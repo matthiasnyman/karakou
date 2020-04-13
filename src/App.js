@@ -4,7 +4,7 @@ import BackgroundVideo from './components/backgroundVideo/BackgroundVideo';
 
 import Albums from './components/album/Albums';
 import Tour from './components/tour/Tour';
-import Bio from './components/Bio';
+import Bandet from './components/Bandet';
 import Kontakt from './components/Kontakt';
 import Footer from './components/Footer';
 
@@ -65,7 +65,7 @@ class App extends React.Component {
         <div  id="tour" />
         <Tour tour={this.tour} />
         <div  id="bio" />
-        <Bio />
+        <Bandet />
         <div  id="kontakt" />
         <Kontakt />
         <Footer />

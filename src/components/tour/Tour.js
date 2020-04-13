@@ -8,7 +8,7 @@ const tour = (props) => {
 
   return (
     <div className='section' >
-      <h2 className="header">Dansa med oss</h2>
+      <h2 className="header">Tour</h2>
       <div>{tourList}</div>
     </div>
   );
