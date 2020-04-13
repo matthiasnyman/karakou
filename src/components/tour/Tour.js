@@ -7,7 +7,7 @@ const tour = (props) => {
   ));
 
   return (
-    <div>
+    <div className='section' >
       <h2 className="header">Dansa med oss</h2>
       <div>{tourList}</div>
     </div>

@@ -1,0 +1,39 @@
+.head {
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  top: 0;
+  height: 4rem;
+  margin: 0;
+  width: 100%;
+  z-index: 2;
+  text-align: center;
+  color: #f6f6f6;
+  background-color: rgba(43, 41, 41, 0.329);
+}
+
+.layout {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  position: fixed;
+  justify-content: space-between;
+
+  h1 {
+    margin: auto 0;
+  }
+
+  a{
+    align-self: center;
+    font-size: 1.4em;
+  }
+}
+
+.media {
+  justify-content: center;
+  align-self: center;
+  a {
+
+    margin: auto 10px;
+  }
+}

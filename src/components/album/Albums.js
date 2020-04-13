@@ -6,7 +6,7 @@ const Albums = (props) => {
   const albumList = props.album.map( a => <AlbumComponant key={a.name} props={a}  />)
 
   return (
-  <div>
+  <div className='section'>
     <h2 className='header'>Något att lyssna på</h2>
     <div className={classes.container}>
       { albumList }

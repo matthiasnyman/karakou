@@ -8,6 +8,7 @@
 .layout {
   display: flex;
   width: 80%;
+  max-width: 1000px;
   margin: auto;
   justify-content: space-between;
 }
@@ -49,6 +50,7 @@
   border: 0;
   height: 1px;
   width: 70%;
+  max-width: 1000px;
   background-image: linear-gradient(to right, rgba(223, 215, 215, 0.315), #f6f6f6, rgba(223, 215, 215, 0.315));
 }
 

@@ -7,7 +7,7 @@ const AlbumComponant = props => {
   return (
     <a className={classes.album} href={link} key={props.name} >
       <img className={classes.image} src={image} alt={name}  />
-      {name}
+      <h4 className={classes.name}> {name} </h4>
     </a>
   )
 }
