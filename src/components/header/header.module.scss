@@ -29,6 +29,14 @@
   }
 }
 
+@media (max-width: 500px) { 
+  .layout{
+    .link{
+      display: none;
+    }
+  }
+}
+
 .media {
   justify-content: center;
   align-self: center;

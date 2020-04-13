@@ -14,13 +14,13 @@ const Header = () => {
       <div className={classes.layout}>
 
 
-        <Link to="bio">Bio</Link>
-        <Link to="tour">Turné</Link>
+        <Link className={classes.link} to="bio">Bio</Link>
+        <Link className={classes.link} to="tour">Turné</Link>
 
         <Link to="top">
           <h1>KARAKOU</h1>
         </Link>
-        <Link to="kontakt">Kontakt</Link>
+        <Link className={classes.link} to="kontakt">Kontakt</Link>
 
         <div className={classes.media}>
           <a className={classes.img} href={spotifyLink}>
