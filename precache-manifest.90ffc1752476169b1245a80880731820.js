@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f057875238ff4da2e90bbdc532b7095e",
+    "revision": "fd3b46a02ae26b6506f317b77338c515",
     "url": "/karakou/index.html"
   },
   {
-    "revision": "cc804373c7b513c7d553",
-    "url": "/karakou/static/css/main.88b9a36d.chunk.css"
+    "revision": "7f73604b19fa7355e158",
+    "url": "/karakou/static/css/main.d851e1cf.chunk.css"
   },
   {
     "revision": "bc4679c660f18a079b6c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/karakou/static/js/2.3b46aac5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc804373c7b513c7d553",
-    "url": "/karakou/static/js/main.7de924d1.chunk.js"
+    "revision": "7f73604b19fa7355e158",
+    "url": "/karakou/static/js/main.0a541b3b.chunk.js"
   },
   {
     "revision": "f50381f9c858b259415a",

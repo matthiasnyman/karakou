@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/karakou/static/css/main.88b9a36d.chunk.css",
-    "main.js": "/karakou/static/js/main.7de924d1.chunk.js",
-    "main.js.map": "/karakou/static/js/main.7de924d1.chunk.js.map",
+    "main.css": "/karakou/static/css/main.d851e1cf.chunk.css",
+    "main.js": "/karakou/static/js/main.0a541b3b.chunk.js",
+    "main.js.map": "/karakou/static/js/main.0a541b3b.chunk.js.map",
     "runtime-main.js": "/karakou/static/js/runtime-main.94a0c0ec.js",
     "runtime-main.js.map": "/karakou/static/js/runtime-main.94a0c0ec.js.map",
     "static/js/2.3b46aac5.chunk.js": "/karakou/static/js/2.3b46aac5.chunk.js",
     "static/js/2.3b46aac5.chunk.js.map": "/karakou/static/js/2.3b46aac5.chunk.js.map",
     "index.html": "/karakou/index.html",
-    "precache-manifest.516a30f13deca6f2b0d43ba7f31ac283.js": "/karakou/precache-manifest.516a30f13deca6f2b0d43ba7f31ac283.js",
+    "precache-manifest.90ffc1752476169b1245a80880731820.js": "/karakou/precache-manifest.90ffc1752476169b1245a80880731820.js",
     "service-worker.js": "/karakou/service-worker.js",
-    "static/css/main.88b9a36d.chunk.css.map": "/karakou/static/css/main.88b9a36d.chunk.css.map",
+    "static/css/main.d851e1cf.chunk.css.map": "/karakou/static/css/main.d851e1cf.chunk.css.map",
     "static/js/2.3b46aac5.chunk.js.LICENSE.txt": "/karakou/static/js/2.3b46aac5.chunk.js.LICENSE.txt",
     "static/media/Instagram.svg": "/karakou/static/media/Instagram.f1641123.svg",
     "static/media/Spotify.svg": "/karakou/static/media/Spotify.e3ccde31.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.94a0c0ec.js",
     "static/js/2.3b46aac5.chunk.js",
-    "static/css/main.88b9a36d.chunk.css",
-    "static/js/main.7de924d1.chunk.js"
+    "static/css/main.d851e1cf.chunk.css",
+    "static/js/main.0a541b3b.chunk.js"
   ]
 }
