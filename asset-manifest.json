@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/karakou/static/css/main.bb8ab6b7.chunk.css",
+    "main.js": "/karakou/static/js/main.00b566ef.chunk.js",
+    "main.js.map": "/karakou/static/js/main.00b566ef.chunk.js.map",
+    "runtime-main.js": "/karakou/static/js/runtime-main.94a0c0ec.js",
+    "runtime-main.js.map": "/karakou/static/js/runtime-main.94a0c0ec.js.map",
+    "static/js/2.5acb5d96.chunk.js": "/karakou/static/js/2.5acb5d96.chunk.js",
+    "static/js/2.5acb5d96.chunk.js.map": "/karakou/static/js/2.5acb5d96.chunk.js.map",
+    "index.html": "/karakou/index.html",
+    "precache-manifest.e456683af902c594cf85c3e1a57fd928.js": "/karakou/precache-manifest.e456683af902c594cf85c3e1a57fd928.js",
+    "service-worker.js": "/karakou/service-worker.js",
+    "static/css/main.bb8ab6b7.chunk.css.map": "/karakou/static/css/main.bb8ab6b7.chunk.css.map",
+    "static/js/2.5acb5d96.chunk.js.LICENSE.txt": "/karakou/static/js/2.5acb5d96.chunk.js.LICENSE.txt",
+    "static/media/Instagram.svg": "/karakou/static/media/Instagram.5da40171.svg",
+    "static/media/Spotify.svg": "/karakou/static/media/Spotify.d741382f.svg",
+    "static/media/karakouvideo.mp4": "/karakou/static/media/karakouvideo.97b6e517.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a0c0ec.js",
+    "static/js/2.5acb5d96.chunk.js",
+    "static/css/main.bb8ab6b7.chunk.css",
+    "static/js/main.00b566ef.chunk.js"
+  ]
+}
