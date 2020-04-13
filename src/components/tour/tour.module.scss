@@ -7,8 +7,9 @@
 
 .layout {
   display: flex;
-  justify-content: space-around;
-
+  width: 80%;
+  margin: auto;
+  justify-content: space-between;
 }
 
 .location {
@@ -22,11 +23,13 @@
 .button {
 
   width: 150px;
+  max-width: 40%;
   height: 40px;
   border: none;
   cursor: pointer;
   font-size: large;
   align-self: center;
+  float: right;
 
   color: #f6f6f6;
   background: linear-gradient(180deg, #7213D1 0%, #3E1ACD 100%);

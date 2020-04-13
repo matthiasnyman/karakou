@@ -1,5 +1,6 @@
 import React from 'react';
-import BackgroundVideo from './components/BackgroundVideo';
+import Header from './components/Header';
+import BackgroundVideo from './components/backgroundVideo/BackgroundVideo';
 import Backdrop from './components/Backdrop';
 
 class App extends React.Component {
@@ -49,6 +50,7 @@ class App extends React.Component {
 
     return (
       <div className="App">
+        <Header scrollStepInPx="50" delayInMs="16.66" />
         <BackgroundVideo />
         <Backdrop album={this.album} tour={this.tour} />
       </div>

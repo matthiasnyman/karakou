@@ -7,9 +7,24 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.head {
+  position: fixed;
+  top: 0;
+  height: 4rem;
+  margin: 0;
+  width: 100%;
+  z-index: 2;
+  text-align: center;
+  color: #f6f6f6;
+}
+
+.head.active {
+  background-color: rgba(43, 41, 41, 0.329);
+}
+
 .backdrop {
   background: linear-gradient(180deg, #080815 77.6%, #161651 100%);
-  padding: 2rem;
+  padding: 10px 2rem;
 }
 
 .header{
@@ -25,10 +40,6 @@ body {
   margin: auto;
   width: 70%;
   max-width: 700px;
-}
-
-.noMargin {
-  margin: 0;
 }
 
 

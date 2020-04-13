@@ -1,0 +1,36 @@
+.Container {
+  min-height: 300px;
+  max-height: 100vh;
+  overflow: hidden;
+
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.Video {
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.Content {
+  position: absolute;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.3);
+  top: 0;
+  width: 100%;
+  height: 100%;
+
+  .media {
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+    img {
+      margin: 1em;
+      cursor: pointer;
+    }
+  }
+}

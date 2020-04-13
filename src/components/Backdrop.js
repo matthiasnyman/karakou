@@ -2,7 +2,8 @@ import React from 'react';
 import Albums from './album/Albums';
 import Tour from './tour/Tour';
 import Bio from './Bio';
-import Kontakt from './Kontakt'
+import Kontakt from './Kontakt';
+import Footer from './Footer';
 
 const Backdrop = (props) => {
 
@@ -13,6 +14,7 @@ const Backdrop = (props) => {
       <Tour tour={tour}  />
       <Bio  />
       <Kontakt  />
+      <Footer />
     </div> 
   );
 };

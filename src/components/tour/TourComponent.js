@@ -2,7 +2,7 @@ import React from 'react';
 import classes from './tour.module.scss';
 
 const TourComponent = (props) => {
-  console.log(props.props);
+
   const { city, venue, date, link } = props.props;
 
   return (
